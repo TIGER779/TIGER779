@@ -52,7 +52,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=FileDownloader-Parallerl-Processing" />
   </a>
     <a href="https://github.com/TIGER779/nezha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=nezha" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=3D-Game-Grahpics" />
   </a>
   <a href="https://github.com/TIGER779/hongjun">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=hongjun" />
