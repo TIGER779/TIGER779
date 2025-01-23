@@ -45,7 +45,7 @@
 
 <div>
   <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=TIGER779&theme=highcontrast&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIGER779&theme=highcontrast&layout=compact&langs_count=5" /></span>
+<span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIGER779&theme=highcontrast&langs_count=5" /></span>
 </div>
 
 
