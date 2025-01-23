@@ -54,8 +54,8 @@
     <a href="https://github.com/TIGER779/3D-Game-Grahpics">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=3D-Game-Grahpics" />
   </a>
-  <a href="https://github.com/TIGER779/hongjun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=hongjun" />
+  <a href="https://github.com/TIGER779/Knight-s-Tour-Solver-with-Genetic-Algorithms-Repair-Heuristics-and-Backtracking">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=Knight-s-Tour-Solver-with-Genetic-Algorithms-Repair-Heuristics-and-Backtracking" />
   </a>
   <a href="https://github.com/TIGER779/luya">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=luya" />
