@@ -49,7 +49,7 @@
 </div>
 <div>
   <a href="https://github.com/TIGER779/pangu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=pangu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=Knight-s-Tour-Solver-with-Genetic-Algorithms-Repair-Heuristics-and-Backtracking" />
   </a>
     <a href="https://github.com/TIGER779/nezha">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TIGER779&theme=highcontrast&repo=nezha" />
